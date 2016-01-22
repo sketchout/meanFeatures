@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{angular-protractor-DefinitelyTyped, angular2-DefinitelyTyped, angularjs-DefinitelyTyped, express-DefinitelyTyped, gruntjs-DefinitelyTyped, jasmine-DefinitelyTyped, jquery-DefinitelyTyped, karma-jasmine-DefinitelyTyped, lodash-DefinitelyTyped, mocha-DefinitelyTyped, mongoose-DefinitelyTyped, requirejs-DefinitelyTyped, should-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>
