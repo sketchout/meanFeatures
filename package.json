@@ -1,0 +1,18 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies":{
+    "body-parser": "1.14.2",
+    "cors": "2.7.1",
+    "mongoose": "4.3.6",
+    "express": "4.13.4"
+  },
+  "bower": {
+    "directory":"public/bower_components",
+    "version":"0.0.2",
+    "dependencies": {
+      "angular.js":"1.4.9"
+    }
+  }
+
+}
