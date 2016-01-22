@@ -1,0 +1,7 @@
+{
+  "name":"example",
+  "version":"0.0.2",
+  "dependencies": {
+    "angular": "1.4.9"
+  }
+}
